@@ -1,0 +1,8 @@
+{
+  "appId": "com.uzbsim.game",
+  "appName": "UZB Simulyator",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  }
+}

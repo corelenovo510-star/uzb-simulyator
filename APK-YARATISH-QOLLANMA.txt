@@ -1,0 +1,13 @@
+UZB SIMULATOR — ANDROID .APK TAYYORLASH QO'LLANMASI
+====================================================
+
+1-USUL (Eng oson — Kompyutersiz / GitHub orqali bepul .APK olish):
+1. GitHub.com da yangi repozitoriy oching va ushbu ZIP ichidagi barcha fayllarni yuklang.
+2. GitHub sahifasida "Actions" bo'limiga kiring — ".github/workflows/build-apk.yml" avtomatik ishga tushadi.
+3. 2-3 daqiqadan so'ng "UZB-SIMULYATOR-APK" nomli tayyor app-debug.apk faylini yuklab olib telefoningizga o'rnating!
+
+2-USUL (Kompyuterda Android Studio orqali):
+  npm install
+  npx cap add android
+  npx cap open android
+Android Studio ochilgach: Build -> Build Bundle(s)/APK(s) -> Build APK(s).
